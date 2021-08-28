@@ -29,6 +29,9 @@ themesDir = "themes"
 [permalinks]
 posts = "/posts/:year/:month/:title/"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [author]
 name = "Owl4Power"
 
