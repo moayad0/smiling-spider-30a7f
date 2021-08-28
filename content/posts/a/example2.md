@@ -2,14 +2,7 @@
 title = "example2"
 description = "test"
 type = ["posts","post"]
-tags = [
-    "go",
-    "golang",
-    "templates",
-    "themes",
-    "development",
-]
-date = "2021-08-28"
+date = "2021-04-11"
 categories = [
     "Development",
     "golang",
