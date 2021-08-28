@@ -1,19 +1,22 @@
 +++
 title = "About"
-date = "2014-04-09"
+date = "2021-08-28"
 aliases = ["about-us","about-hugo","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Owl4Power"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+We Are Student in Taibah University - Information System Major:
 
-It makes use of a variety of open source projects including:
+Member1: Hattan
+Twitter: @hattan_515
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Member2: Omar
+Twitter: @vov__44 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Member3: moayad
+Twitter: <a href="https:twitter.com/7rbae">7rbae</a>
+
+Member4: Khalid
+Twitter: 
+
