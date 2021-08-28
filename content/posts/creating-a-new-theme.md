@@ -1,6 +1,6 @@
 ---
 author:
-  name: "Michael Henderson"
+  name: "Owl4Power - Hattan"
 date: 2014-09-28
 linktitle: Creating a New Theme
 type:
