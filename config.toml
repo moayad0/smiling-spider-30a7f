@@ -1,5 +1,5 @@
 baseURL = ""
-title = "Hello Friend NG"
+title = "Owl4Power Team"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 PygmentsCodeFences = true
@@ -30,7 +30,7 @@ themesDir = "themes"
 posts = "/posts/:year/:month/:title/"
 
 [author]
-name = "Jane Doe"
+name = "Owl4Power"
 
 [blackfriday]
 hrefTargetBlank = true
@@ -63,8 +63,8 @@ justifyContent = false
   author = true
   topText = [ ]
   bottomText = [
-  "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-  "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+  "",
+  ""
 ]
 
 [params.favicon.color]
@@ -77,35 +77,17 @@ theme = "#292a2b"
   logoText = "$ echo owl4power "
   logoHomeLink = "/"
 
-  [[params.social]]
-  name = "twitter"
-  url = "https://twitter.com/"
-
-  [[params.social]]
-  name = "email"
-  url = "mailto:nobody@example.com"
-
-  [[params.social]]
-  name = "github"
-  url = "https://github.com/"
-
-  [[params.social]]
-  name = "linkedin"
-  url = "https://www.linkedin.com/"
-
-  [[params.social]]
-  name = "stackoverflow"
-  url = "https://www.stackoverflow.com/"
+  
 
 [languages.en]
 subtitle = "Hello Friend NG Theme"
 weight = 1
-copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+copyright = '<a href="https://ctf.watadict.com/" target="_blank" rel="noopener">WatadCTF/a>'
 
 [languages.fr]
 subtitle = "Hello Friend NG Theme"
 weight = 2
-copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+copyright = '<a href="https://ctf.watadict.com/" target="_blank" rel="noopener">WatadCTF/a>'
 
 [[menu.main]]
 identifier = "about"
