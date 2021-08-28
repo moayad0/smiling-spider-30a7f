@@ -60,7 +60,7 @@ customJS = [ ]
 justifyContent = false
 
   [params.footer]
-  trademark = false
+  trademark = true
   rss = false
   copyright = false
   author = true
