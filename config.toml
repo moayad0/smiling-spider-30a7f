@@ -15,8 +15,8 @@ publishDir = "public"
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-canonifyURLs = true
-enableRobotsTXT = true
+canonifyURLs = false
+enableRobotsTXT = false
 enableGitInfo = false
 enableEmoji = true
 enableMissingTranslationPlaceholders = false
@@ -44,25 +44,25 @@ category = "categories"
 series = "series"
 
 [params]
-dateform = "Jan 2, 2006"
-dateformShort = "Jan 2"
-dateformNum = "2006-01-02"
-dateformNumTime = "2006-01-02 15:04"
+dateform = "Aug 28, 2021"
+dateformShort = "Aug 28"
+dateformNum = "2021-08-28"
+dateformNumTime = "2021-08-28 10:27"
 description = "Nice theme for homepages and blogs"
 keywords = ""
 images = [ "" ]
-homeSubtitle = "Hello Friend NG"
+homeSubtitle = "Writeups Website"
 disableReadOtherPosts = false
 enableThemeToggle = false
-enableSharingButtons = true
+enableSharingButtons = false
 customCSS = [ ]
 customJS = [ ]
 justifyContent = false
 
   [params.footer]
-  trademark = true
-  rss = true
-  copyright = true
+  trademark = false
+  rss = false
+  copyright = false
   author = true
   topText = [ ]
   bottomText = [
@@ -85,12 +85,12 @@ theme = "#292a2b"
 [languages.en]
 subtitle = "Hello Friend NG Theme"
 weight = 1
-copyright = '<a href="https://ctf.watadict.com/" target="_blank" rel="noopener">WatadCTF/a>'
+copyright = '<a href="https://ctf.watadict.com/" target="_blank" rel="noopener">WatadCTF </a>'
 
 [languages.fr]
 subtitle = "Hello Friend NG Theme"
 weight = 2
-copyright = '<a href="https://ctf.watadict.com/" target="_blank" rel="noopener">WatadCTF/a>'
+copyright = '<a href="https://ctf.watadict.com/" target="_blank" rel="noopener">WatadCTF </a>'
 
 [[menu.main]]
 identifier = "about"
@@ -98,6 +98,6 @@ name = "About"
 url = "about/"
 
 [[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "posts/"
+identifier = "Writeups"
+name = "Writeups"
+url = "writeups/"
