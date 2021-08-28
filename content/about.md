@@ -21,3 +21,5 @@ Twitter: <a href="https://twitter.com/7rbae">@7rbae</a>
 Member4: Khalid
 Twitter: 
 
+twitter = "https://github.com/panr/hugo-theme-hello-friend"
+
