@@ -68,13 +68,13 @@ justifyContent = false
 ]
 
 [params.favicon.color]
-mask = "#1b1c1d"
-msapplication = "#1b1c1d"
-theme = "#1b1c1d"
+mask = "#292a2b"
+msapplication = "#292a2b"
+theme = "#292a2b"
 
   [params.logo]
   logoMark = ">"
-  logoText = "$ cd /home/"
+  logoText = "$ echo owl4power "
   logoHomeLink = "/"
 
   [[params.social]]
