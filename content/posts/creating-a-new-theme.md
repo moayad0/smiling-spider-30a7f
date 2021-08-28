@@ -6,7 +6,7 @@ linktitle: Creating a New Theme
 type:
 - post
 - posts
-title: owl4power
+title: hi
 weight: 10
 series:
 - Hugo 101
