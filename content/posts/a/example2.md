@@ -2,11 +2,6 @@
 title = "example2"
 description = "test"
 type = ["posts","post"]
-date = "watad-04-02"
-categories = [
-    "Development",
-    "golang",
-]
 series = ["Hugo 101"]
 [ author ]
   name = "owl4power"
