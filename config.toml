@@ -79,15 +79,7 @@ theme = "#292a2b"
 
   
 
-[languages.en]
-subtitle = "WatadCTF"
-weight = 1
-copyright = '<a href="https://ctf.watadict.com/" target="_blank" rel="noopener">WatadCTF </a>'
 
-[languages.fr]
-subtitle = "Hello Friend NG Theme"
-weight = 2
-copyright = '<a href="https://ctf.watadict.com/" target="_blank" rel="noopener">WatadCTF </a>'
 
 [[menu.main]]
 identifier = "about"
