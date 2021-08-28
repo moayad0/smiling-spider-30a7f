@@ -65,10 +65,7 @@ justifyContent = false
   copyright = false
   author = true
   topText = [ ]
-  bottomText = [
-  "",
-  ""
-]
+  bottomText = [ ]
 
 [params.favicon.color]
 mask = "#292a2b"
