@@ -2,7 +2,7 @@
 title = "example2"
 description = "test"
 type = ["posts","post"]
-{{ .PublishDate.Format "January 2, 2006" }}
+date = "watad-04-02"
 categories = [
     "Development",
     "golang",
