@@ -87,6 +87,6 @@ name = "About"
 url = "about/"
 
 [[menu.main]]
-identifier = "posts"
+identifier = "Writeups"
 name = "Writeups"
 url = "posts/"
