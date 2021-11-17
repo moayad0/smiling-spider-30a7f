@@ -1,7 +1,6 @@
 +++
 title = "example2"
 description = "test"
-date = "2014-03-10" 
 type = ["posts","post"]
 series = ["Hugo 101"]
 [ author ]
